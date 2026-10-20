@@ -1,4 +1,4 @@
-# Hi, I'm Vasavi
+# Hi, I'm Vasavi!
 
 I'm an AI & ML undergraduate who enjoys exploring technology, solving problems, and building projects that turn ideas into reality.
 
